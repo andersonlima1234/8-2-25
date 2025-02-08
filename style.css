@@ -1,0 +1,79 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+.centraliza {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.secao2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 100px;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-direction: column;
+}
+.paragrafo1{
+    text-align: center;
+    width: 30vw;
+}
+.secaologo{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.secao4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.secao4 h3{
+    width: 50%;
+}
+.secao5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.secao6{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.secao1{
+    background-image: url('data:image/svg+xml,%3Csvg%20width%3D%22100%25%22%20height%3D%22100%25%22%20id%3D%22svg%22%20viewBox%3D%220%200%201440%20690%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20class%3D%22transition%20duration-300%20ease-in-out%20delay-150%22%3E%3Cpath%20d%3D%22M%200%2C700%20L%200%2C262%20C%2088.61244019138758%2C201.78947368421052%20177.22488038277515%2C141.57894736842107%20278%2C152%20C%20378.77511961722485%2C162.42105263157893%20491.7129186602871%2C243.4736842105263%20585%2C274%20C%20678.2870813397129%2C304.5263157894737%20751.9234449760766%2C284.52631578947364%20841%2C260%20C%20930.0765550239234%2C235.47368421052633%201034.5933014354066%2C206.42105263157893%201137%2C206%20C%201239.4066985645934%2C205.57894736842107%201339.7033492822966%2C233.78947368421052%201440%2C262%20L%201440%2C700%20L%200%2C700%20Z%22%20stroke%3D%22none%22%20stroke-width%3D%220%22%20fill%3D%22%232d815d%22%20fill-opacity%3D%221%22%20class%3D%22transition-all%20duration-300%20ease-in-out%20delay-150%20path-0%22%20transform%3D%22rotate(-180%20720%20350)%22%3E%3C%2Fpath%3E%3C%2Fsvg%3E');
+ 
+}
+.corbranca{
+    color: white;
+    
+}
+.text2, .text3{
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.botao1{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 4px;
+}
+.botao2{
+    background-color: green;
+    color: black;
+    border: none;
+}
